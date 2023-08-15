@@ -1,4 +1,5 @@
 # CPC_Inventory_management
+
 CPC (Central Police Canteen) is an Inventory Management System built using PHP and a MySQL database. It allows users to manage products, track inventory, and perform various operations in an easy and efficient manner. This README provides an overview of the project's features and instructions for setting up and using the system.
 
 ## Features
